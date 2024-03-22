@@ -26,8 +26,8 @@ body{
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
-.page-menu-link:hover{
-    color: #4d5ae5; 
+.page-menu-link: hover {
+    color: #2e2f42; 
 }
 .page-contacts-menu-list{
         font-weight: 400;
