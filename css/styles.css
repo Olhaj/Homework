@@ -1,5 +1,13 @@
 body{
     font-family: "roboto", sans-serif;
+    background-color: #fff;
+    color: #434455;
+}
+a{
+    text-decoration: none;
+}
+ul, ol{
+    list-style: none;
 }
 
 .page{
@@ -38,7 +46,6 @@ body{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #434455;
 }
 
 .page-main-title{
@@ -76,7 +83,6 @@ body{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #434455;
 }
 .page-section-foto{
 
