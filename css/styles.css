@@ -26,3 +26,31 @@ body{
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
+.page-contacts-menu-list{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.page-main-title{
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
+.page-main-button{
+       border-radius: 4px;
+        padding: 16px 32px;
+        width: 169px;
+        height: 56px;
+}
+.page-main-press{
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+}
