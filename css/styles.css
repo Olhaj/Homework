@@ -68,7 +68,7 @@ ul, ol{
 /*-------------address-----------*/
 
 .page-address-link:hover {
-    color: #4d5ae5;
+    color: #404bbf;
 }
 
 .page-address-link:focus {
@@ -80,7 +80,7 @@ ul, ol{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    font-style: normal
+    font-style: normal;
 }
 
 /*-------------------------------*/
@@ -102,7 +102,6 @@ ul, ol{
 }
 
 .page-btn-main{
-    font-family: "Roboto", sans-serif
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -124,7 +123,7 @@ ul, ol{
 /*---------------------------------*/
 /*-------------section-features---------*/
 .page-section{
-    background: #F4F4FD;
+    background-color: #F4F4FD
 }
 
 .section-title{
@@ -140,6 +139,7 @@ ul, ol{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    background-color: #FFFFFF
 }
 
 /*-------------------------------------*/
