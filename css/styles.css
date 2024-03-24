@@ -74,13 +74,17 @@ ul, ol{
 .page-address-link:focus {
     color: #404bbf;
 }
+
+.page-address{
+    font-style: normal;
+}
+
 .page-address-link{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    font-style: normal;
 }
 
 /*-------------------------------*/
