@@ -24,6 +24,10 @@ ul, ol{
 
 /*-----------NAV----------------*/
 
+.page-nav{
+
+}
+
 .page-menu-link:hover {
     color: #4d5ae5;
 }
@@ -76,6 +80,8 @@ ul, ol{
 
 .section-main{
     background: #2e2f42;
+    width: 1440px;
+    height: 600px;
 }
 
 .page-main-title{
@@ -101,6 +107,8 @@ ul, ol{
 /*-------------section-features---------*/
 .page-section{
     background: #f4f4fd;
+    width: 1440px;
+    height: 732px;
 }
 
 .section-title{
@@ -196,6 +204,8 @@ ul, ol{
 
 .page-footer{
     background: #2e2f42;
+    width: 1440px;
+    height: 312px;
 }
 
 .page-footer-studio{
