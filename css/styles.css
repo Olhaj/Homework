@@ -29,7 +29,7 @@ ul, ol{
 }
 
 .page-menu-link:hover {
-    color: #4d5ae5;
+    color: #404bbf;
 }
 
 .page-logo{
@@ -72,7 +72,8 @@ ul, ol{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #434455;
+    font-style: normal
 }
 
 /*-------------------------------*/
@@ -101,6 +102,12 @@ ul, ol{
     color: #fff;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
+    font-family: "Roboto"sans-serif;
+    cursor: pointer;  
+}
+
+.page-btn-main:hover {
+    background-color: #404BBF
 }
 
 /*---------------------------------*/
@@ -160,6 +167,9 @@ ul, ol{
 /*---------------------------------------*/
 /*------------------Portfolio--------------*/
 
+.page-section{
+    background-color: #FFFFFF
+}
 .page-section-title{
     font-weight: 700;
     font-size: 36px;
@@ -167,6 +177,7 @@ ul, ol{
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .page-section-images{
