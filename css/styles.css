@@ -107,13 +107,15 @@ ul, ol{
 
 /*---------------------------------*/
 /*-------------section-features---------*/
-.page-foto-link{
-    background-color: #F4F4FD;
-}
 
 .page-section{
     background-color: #FFFFFF;
 }
+
+.page-foto-link {
+    background-color: #F4F4FD;
+}
+
 .section-title{
     font-weight: 500;
     font-size: 20px;
