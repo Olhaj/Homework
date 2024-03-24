@@ -3,17 +3,31 @@ body{
     background-color: #fff;
     color: #434455;
 }
+
 a{
     text-decoration: none;
 }
+
 ul, ol{
     list-style: none;
 }
+
+.visually-hidden {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
 /*-----------NAV----------------*/
 
 .page-menu-link:hover {
     color: #4d5ae5;
 }
+
 .page-logo{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -41,11 +55,14 @@ ul, ol{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
 /*-------------------------------*/
 /*-------------address-----------*/
+
 .page-address-link:hover {
     color: #4d5ae5;
 }
+
 .page-address-link{
     font-weight: 500;
     font-size: 16px;
@@ -53,8 +70,14 @@ ul, ol{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
 /*-------------------------------*/
-/*main-button*/
+/*--------main-button-------------*/
+
+.section-main{
+    background: #2e2f42;
+}
+
 .page-main-title{
     font-weight: 700;
     font-size: 56px;
@@ -71,8 +94,10 @@ ul, ol{
     letter-spacing: 0.04em;
     color: #fff;
 }
+
 /*---------------------------------*/
 /*-------------section-features---------*/
+
 .section-title{
     font-weight: 500;
     font-size: 20px;
@@ -82,14 +107,15 @@ ul, ol{
 }
 
 .section-text{
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
+
 /*-------------------------------------*/
 /*----------------section-foto-----------*/
+
 .page-section-foto{
 
 }
@@ -102,6 +128,7 @@ ul, ol{
     text-align: center;
     color: #2e2f42;
 }
+
 .section-title-foto{
     font-weight: 500;
     font-size: 20px;
@@ -112,15 +139,16 @@ ul, ol{
 }
 
 .section-text-link{
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
 }
+
 /*---------------------------------------*/
 /*------------------Portfolio--------------*/
+
 .page-section-title{
     font-weight: 700;
     font-size: 36px;
@@ -149,8 +177,10 @@ ul, ol{
     letter-spacing: 0.02em;
     color: #434455;
 }
+
 /*------------------------------------------*/
 /*------------------------Footer-----------*/
+
 .page-footer-text{
     font-weight: 400;
     font-size: 16px;
@@ -158,4 +188,5 @@ ul, ol{
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
+
 /*--------------------------------------------*/
