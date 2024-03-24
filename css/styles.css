@@ -93,10 +93,15 @@ ul, ol{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background: #4d5ae5;
 }
 
 /*---------------------------------*/
 /*-------------section-features---------*/
+.page-section{
+    background: #f4f4fd;
+}
 
 .section-title{
     font-weight: 500;
@@ -187,6 +192,20 @@ ul, ol{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
+}
+
+.page-footer{
+    background: #2e2f42;
+}
+
+.page-footer-studio{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd
 }
 
 /*--------------------------------------------*/
