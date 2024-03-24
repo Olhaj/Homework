@@ -122,7 +122,7 @@ ul, ol{
 /*---------------------------------*/
 /*-------------section-features---------*/
 .page-section{
-    background-color: #F4F4FD
+    background-color: #F4F4FD;
 }
 
 .section-title{
@@ -130,7 +130,8 @@ ul, ol{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42
+    color: #2e2f42;
+    background-color: #FFFFFF;
 }
 
 .section-text{
@@ -138,7 +139,6 @@ ul, ol{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    background-color: #FFFFFF
 }
 
 /*-------------------------------------*/
