@@ -28,12 +28,9 @@ ul, ol{
 
 }
 
-.page-menu-link:hover {
-    color: #404bbf;
-}
-
+.page-menu-link:hover,
 .page-menu-link:focus {
-   color: #404bbf;
+    color: #404bbf;
 }
 
 .page-logo{
@@ -67,10 +64,7 @@ ul, ol{
 /*-------------------------------*/
 /*-------------address-----------*/
 
-.page-address-link:hover {
-    color: #404bbf;
-}
-
+.page-address-link:hover,
 .page-address-link:focus {
     color: #404bbf;
 }
@@ -115,17 +109,14 @@ ul, ol{
     cursor: pointer;  
 }
 
-.page-btn-main:hover {
-    background-color: #404BBF
-}
-
+.page-btn-main:hover,
 .page-btn-main:focus {
     background-color: #404BBF
 }
 
 /*---------------------------------*/
 /*-------------section-features---------*/
-.page-section{
+.page-foto-link{
     background-color: #F4F4FD;
 }
 
